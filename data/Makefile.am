@@ -11,13 +11,17 @@ dist_pkgdata_DATA = \
 	setup.xml \
 	skin_subtitles.xml \
 	startwizard.xml \
-	userinterfacepositionerwizard.xml \
-	videowizard.xml \
 	freesat.t1 \
 	freesat.t2 \
 	unicable.xml \
 	hd-testcard.mvi \
-	distro-logo.png
+	defaultsatlists.xml \
+        defaultwizard.xml \
+        dreampackagewizard.xml \
+        skin.xml \
+        skin_default.xml \
+        prev.png \
+        tutorialwizard.xml
 
 if HAVE_TEXTLCD
 if SPARK
